@@ -13,6 +13,10 @@
 * 취미: 탁구
 * 특기: 밤새기
 
+
+---
+
+
 ## 경력
 
 * 마인즈랩 인턴십 (2017-07 ~ 08)
@@ -41,26 +45,33 @@
 
 * JavaScript
   - ES6
-  - ESLint (Standard)
+  - Promise
+  - Axios
 
 * CSS 3
-  - Preprocess (SCSS)
+  - Preprocessor (SCSS)
 
 * Java
   - Spring Boot
   - Hibernate (JPA)
 
 * MySQL
-
-
-
+  - ProxySQL
 
 * 그 외
   - Git
   - RESTful API
+  - ESLint (Standard)
   - Swagger
 
+
+---
+
+## 자격증
+* 정보처리기사
+* 운전면허 1종 보통
+
 ## 활동
-* 컨퍼런스
+* 컨퍼런스 참가
   - Vuetiful Korea 6th (2018-12-11)
   - JAVASCRIPT IS EVERYWHERE (2019-06-22)
