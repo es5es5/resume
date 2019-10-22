@@ -52,7 +52,15 @@
 
 * MySQL
 
+
+
+
 * 그 외
   - Git
   - RESTful API
   - Swagger
+
+## 활동
+* 컨퍼런스
+  - Vuetiful Korea 6th (2018-12-11)
+  - JAVASCRIPT IS EVERYWHERE (2019-06-22)
