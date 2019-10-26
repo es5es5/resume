@@ -49,6 +49,7 @@
   - Axios
 
 * CSS 3
+  - BEM
   - Preprocessor (SCSS)
 
 * Java
@@ -58,12 +59,14 @@
 * MySQL
   - ProxySQL
 
-* 그 외
+* 협업
   - Git
-  - RESTful API
   - Swagger
-  - ESLint (Standard)
+
+* etc
+  - RESTful API
   - Logging
+  - ESLint (Standard)
 
 
 ---
