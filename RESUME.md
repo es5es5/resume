@@ -69,7 +69,24 @@
   - RESTful API
   - Logging
   - ESLint (Standard)
+  - Docker
 
+## 프로젝트
+* 마인즈랩 챗봇
+  - Web Tool (챗봇 개발환경 개발)
+
+* 피플라이프 사내 ERP
+  - 사무실 관리 (Front-End 전담)
+  - 소모품 신청 (Front-End 전담)
+  - 보험상품 관리 (Front-End 전담, Back-End 일부)
+  - 보험상담숍 관리 (Front-End 전담)
+  - 상담원 수수료 명세서 (Front-End 전담)
+
+* 피플라이프 보증보험 크롤링
+  - 보증보험 엑셀 자료 자동 다운로드 크롤러 개발 (Selenium)
+
+* 피플라이프 텔레 마케팅 시스템
+  - 텔레마케터 상담 DB 배분 (Front-End 전담)
 
 ---
 
