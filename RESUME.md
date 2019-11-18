@@ -80,6 +80,7 @@
   - 소모품 신청 (Front-End 전담)
   - 보험상품 관리 (Front-End 전담, Back-End 일부)
   - 보험상담숍 관리 (Front-End 전담)
+  - 방문 DB 신청 관리 (Front-End 전담)
 
 * [피플라이프] 보증보험 스크래핑
   - 보증보험 엑셀 자료 자동 다운로드 스크래퍼 (Selenium)
