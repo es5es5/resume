@@ -99,3 +99,5 @@
 * 컨퍼런스 참가
   - Vuetiful Korea 6th (2018-12-11)
   - JAVASCRIPT IS EVERYWHERE (2019-06-22)
+ * SNS 운영
+  - Facebook https://www.facebook.com/WebDevShare/
