@@ -19,8 +19,8 @@
 
 ## 경력
 
-* 마인즈랩 AI플랫폼연구소 인턴십 (2017-07 ~ 08)
-* 피플라이프 IT지원본부 (2018-11 ~ 현재)
+* 마인즈랩 AI플랫폼연구소 인턴십 (2017-07-03 ~ 08-31)
+* 피플라이프 IT지원본부 (2018-11-02 ~ 현재)
 
 ## 학력
 
@@ -80,6 +80,7 @@
   - 소모품 신청 (Front-End 전담)
   - 보험 설계상품(텔레 마케팅) 관리 (Front-End 전담, Back-End 일부)
   - 보험 상담숍(보험클리닉) 관리 (Front-End 전담)
+  - 방문 DB 신청(개인영업) 관리 (Front-End 전담)
 
 
 * [피플라이프] 텔레 마케팅 시스템
@@ -96,9 +97,13 @@
 * 운전면허 1종 보통
 
 ## 활동
+
+* SNS 운영
+  - Facebook: https://www.facebook.com/WebDevShare/
+
 * 동아리
   - 강원대학교 컴퓨터연구회 36대 회장
 
-* 컨퍼런스
-  - Vuetiful Korea 6th (2018-12-11) 참석
-  - JAVASCRIPT IS EVERYWHERE (2019-06-22) 참석
+* 컨퍼런스 참가
+  - Vuetiful Korea 6th (2018-12-11)
+  - JAVASCRIPT IS EVERYWHERE (2019-06-22)
