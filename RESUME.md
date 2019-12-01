@@ -61,15 +61,15 @@
 * MySQL
   - ProxySQL
 
-* 협업
+* 버전관리
   - Git
-  - Swagger
 
 * etc
   - RESTful API
   - Logging
   - ESLint (Standard)
   - Docker
+  - Swagger
 
 ## 프로젝트
 * [마인즈랩] 챗봇
@@ -78,15 +78,16 @@
 * [피플라이프] 사내 ERP
   - 사무실 관리 (Front-End 전담)
   - 소모품 신청 (Front-End 전담)
-  - 보험상품 관리 (Front-End 전담, Back-End 일부)
-  - 보험상담숍 관리 (Front-End 전담)
+  - 보험 설계상품(텔레 마케팅) 관리 (Front-End 전담, Back-End 일부)
+  - 보험 상담숍(보험클리닉) 관리 (Front-End 전담)
 
-* [피플라이프] 보증보험 스크래핑
-  - 보증보험 엑셀 자료 자동 다운로드 스크래퍼 (Selenium)
 
 * [피플라이프] 텔레 마케팅 시스템
   - 상담원 수수료 명세서 (Front-End 전담)
   - 상담 DB 배분 (Front-End 전담)
+
+* [피플라이프] 보증보험 자료 다운로드 자동화
+  - 보증보험 엑셀 자료 다운로드 자동화 스크래퍼 (Selenium)
 
 ---
 
@@ -95,6 +96,9 @@
 * 운전면허 1종 보통
 
 ## 활동
-* 컨퍼런스 참가
-  - Vuetiful Korea 6th (2018-12-11)
-  - JAVASCRIPT IS EVERYWHERE (2019-06-22)
+* 동아리
+  - 강원대학교 컴퓨터연구회 36대 회장
+
+* 컨퍼런스
+  - Vuetiful Korea 6th (2018-12-11) 참석
+  - JAVASCRIPT IS EVERYWHERE (2019-06-22) 참석
