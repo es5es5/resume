@@ -38,7 +38,7 @@
 
 ## 기술
 
-* Vue.js
+* Vue
   - Cli 3
   - Vuex
   - Router
@@ -47,8 +47,8 @@
   - ES6
   - Promise
   - Axios
-  - npm & yarn
-  - webpack
+  - Npm & Yarn
+  - Webpack
 
 * CSS 3
   - BEM
@@ -61,7 +61,7 @@
 * MySQL
   - ProxySQL
 
-* 버전관리
+* Version Control
   - Git
 
 * etc
@@ -81,7 +81,6 @@
   - 보험 설계상품(텔레 마케팅) 관리 (Front-End 전담, Back-End 일부)
   - 보험 상담숍(보험클리닉) 관리 (Front-End 전담)
   - 방문 DB 신청(개인영업) 관리 (Front-End 전담)
-
 
 * [피플라이프] 텔레 마케팅 시스템
   - 상담원 수수료 명세서 (Front-End 전담)
