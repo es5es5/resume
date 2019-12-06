@@ -67,27 +67,27 @@
 * etc
   - RESTful API
   - Logging
-  - ESLint (Standard)
+  - ESLint
   - Docker
   - Swagger
 
 ## 프로젝트
 * [마인즈랩] 챗봇
-  - Web Tool (챗봇 개발환경)
+  - Web Tool (챗봇 개발환경 20% 기여)
 
 * [피플라이프] 사내 ERP
-  - 사무실 관리 (Front-End 전담)
-  - 소모품 신청 (Front-End 전담)
-  - 보험 설계상품(텔레 마케팅) 관리 (Front-End 전담, Back-End 일부)
-  - 보험 상담숍(보험클리닉) 관리 (Front-End 전담)
-  - 방문 DB 신청(개인영업) 관리 (Front-End 전담)
+  - 사무실 관리 (Front-End 100% 기여)
+  - 소모품 신청 (Front-End 100% 기여)
+  - 보험 설계상품(텔레 마케팅) 관리 (Front-End 100% 기여, Back-End 40% 기여)
+  - 보험 상담숍(보험클리닉) 관리 (Front-End 100% 기여)
+  - 방문 DB 신청(개인영업) 관리 (Front-End 100% 기여)
 
 * [피플라이프] 텔레 마케팅 시스템
-  - 상담원 수수료 명세서 (Front-End 전담)
-  - 상담 DB 배분 (Front-End 전담)
+  - 상담원 수수료 명세서 (Front-End 100% 기여)
+  - 상담 DB 배분 (Front-End 100% 기여)
 
 * [피플라이프] 보증보험 자료 다운로드 자동화
-  - 보증보험 엑셀 자료 다운로드 자동화 스크래퍼 (Selenium)
+  - 보증보험 엑셀 자료 다운로드 자동화 스크래퍼 (Selenium 70% 기여)
 
 ---
 
@@ -98,7 +98,7 @@
 ## 활동
 
 * SNS 운영
-  - Facebook: https://www.facebook.com/WebDevShare/
+  - Facebook: [[웹 개발 정보공유](https://www.facebook.com/WebDevShare/)]
 
 * 동아리
   - 강원대학교 컴퓨터연구회 36대 회장
