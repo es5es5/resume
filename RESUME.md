@@ -88,7 +88,7 @@
   - 상담 DB 배분 (Front-End 100% 전담)
   
 * [피플라이프] 보험클리닉
-  - [방문 상담숍 홈페이지](https://www.facebook.com/WebDevShare/) (Front-End 60% 기여)
+  - [방문 상담숍 홈페이지](https://www.bohumclinic.com/shop) (Front-End 60% 기여)
 
 * [피플라이프] 보증보험 자료 다운로드 자동화
   - 보증보험 엑셀 자료 다운로드 자동화 스크래퍼 (Selenium 70% 기여)
