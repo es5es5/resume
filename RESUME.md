@@ -86,7 +86,7 @@
 * [피플라이프] 텔레 마케팅 시스템
   - 상담원 수수료 명세서 (Front-End 100% 전담)
   - 상담 DB 배분 (Front-End 100% 전담)
-  
+
 * [피플라이프] 보험클리닉
   - [방문 상담숍 홈페이지](https://www.bohumclinic.com/shop) (Front-End 60% 기여)
 
@@ -112,3 +112,10 @@
   - JAVASCRIPT IS EVERYWHERE (2019-06-22)
 * 워크샵 참가
   - Hands on! PWA + Azure workshop (2019-12-21)
+
+  ---
+
+  ## 지인평가
+  #### [김상규](https://anroniogi.github.io/) (강원대학교 산업정보통신연구실)
+  > 일을 미루지않는타입. 배우는것에 있어서 적극적이고 문제해결능력이 좆습니다.  
+  ~~결혼을 전제로한 여자친구가 있대요~~
