@@ -113,7 +113,7 @@
 * 워크샵 참가
   - Hands on! PWA + Azure workshop (2019-12-21)
 
-  ---
+---
 
 ## 지인평가
   #### [김상규](https://anroniogi.github.io/) (강원대학교 산업정보통신연구실)
