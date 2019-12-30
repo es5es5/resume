@@ -45,7 +45,6 @@
 
 * JavaScript
   - ES6
-  - Promise
   - Axios
   - Npm & Yarn
   - Webpack
@@ -60,9 +59,6 @@
 
 * MySQL
   - ProxySQL
-
-* Version Control
-  - Git
 
 * etc
   - RESTful API
@@ -110,6 +106,7 @@
 * 컨퍼런스 참가
   - Vuetiful Korea 6th (2018-12-11)
   - JAVASCRIPT IS EVERYWHERE (2019-06-22)
+  
 * 워크샵 참가
   - Hands on! PWA + Azure workshop (2019-12-21)
 
