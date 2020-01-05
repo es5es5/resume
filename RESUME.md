@@ -59,6 +59,10 @@
 
 * MySQL
   - ProxySQL
+  
+* Git
+  - GitHub, GitLab
+  - Git flow
 
 * etc
   - RESTful API
@@ -109,6 +113,9 @@
   
 * 워크샵 참가
   - Hands on! PWA + Azure workshop (2019-12-21)
+  
+* 오픈 소스 기여
+  - summernote: [[Issue]](https://github.com/summernote/summernote/issues/3537)
 
 ---
 
