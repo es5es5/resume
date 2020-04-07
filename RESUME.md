@@ -74,6 +74,7 @@
   - ESLint
   - Docker
   - Swagger
+  - Web Socket
 
 ## 프로젝트
 
