@@ -30,11 +30,12 @@
 ## 교육
 
 * 현장
-  - FASTCAMPUS [Vue.js 정복 캠프] 수료 (2018-09 ~ 11)
+  - FASTCAMPUS [Vue.js 정복 캠프] (2018-09 ~ 11)
 
 * 온라인
-  - INFLEARN [누구나 다루기 쉬운 Vue.js 입문 - 3시간 안에 배우기] 수료
-  - INFLEARN [스프링 프레임워크 핵심 기술] 수료
+  - INFLEARN [누구나 다루기 쉬운 Vue.js 입문 - 3시간 안에 배우기]
+  - INFLEARN [스프링 프레임워크 핵심 기술]
+  - 우아한형제들 [우아한테크러닝 3기 "React&TypeScript"]
 
 ## 기술
 
@@ -48,7 +49,6 @@
   - Axios
   - Npm & Yarn
   - Webpack
-  - Promise
 
 * CSS 3
   - BEM
@@ -109,6 +109,9 @@
 
 * [[아이폰11](https://louis-apple.netlify.com/)] 카피 퍼블리싱
   - 애플 아이폰11 페이지
+
+* [[충주 사과](https://test-chungju-apple.netlify.app/)] PWA
+  - 사과 농장의 판매관리, 고객관리 관리페이지
 
 ---
 
