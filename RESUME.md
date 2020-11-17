@@ -110,7 +110,7 @@
 * [[아이폰11](https://louis-apple.netlify.com/)] 카피 퍼블리싱
   - 애플 아이폰11 페이지
 
-* [[충주 사과](https://test-chungju-apple.netlify.app/)] PWA
+* [[충주 사과](https://test-chungju-apple.netlify.app/preview)] PWA
   - 사과 농장의 판매관리, 고객관리 관리페이지
 
 ---
