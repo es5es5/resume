@@ -43,6 +43,7 @@
   - Cli 3+
   - Vuex
   - Router
+  - Nuxt
 
 * JavaScript
   - ES6
@@ -104,6 +105,14 @@
 
 * [GAI] 김총무
   - [서비스 홈페이지](http://dev.fcworld.kr:31300) (Front-End 100% 전담)
+  
+## 솔루션 개발
+* [화상회의 Jitsi] Jitsi Meet
+  - 오픈소스 Jitsi 를 이용한 화상회의 'Meet' Web 개발
+
+* [화상회의 BBB] Greenlight
+  - 오픈소스 BigBlueButton 를 이용한 화상회의 'Greenlight' Web 개발
+
 
 ## 포트폴리오
 
