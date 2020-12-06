@@ -30,11 +30,12 @@
 ## 교육
 
 * 현장
-  - FASTCAMPUS [Vue.js 정복 캠프] 수료 (2018-09 ~ 11)
+  - FASTCAMPUS [Vue.js 정복 캠프] (2018-09 ~ 11)
 
 * 온라인
-  - INFLEARN [누구나 다루기 쉬운 Vue.js 입문 - 3시간 안에 배우기] 수료
-  - INFLEARN [스프링 프레임워크 핵심 기술] 수료
+  - INFLEARN [누구나 다루기 쉬운 Vue.js 입문 - 3시간 안에 배우기]
+  - INFLEARN [스프링 프레임워크 핵심 기술]
+  - 우아한형제들 [우아한테크러닝 3기 "React&TypeScript"]
 
 ## 기술
 
@@ -42,13 +43,13 @@
   - Cli 3+
   - Vuex
   - Router
+  - Nuxt
 
 * JavaScript
   - ES6
   - Axios
   - Npm & Yarn
   - Webpack
-  - Promise
 
 * CSS 3
   - BEM
@@ -74,6 +75,7 @@
   - ESLint
   - Docker
   - Swagger
+  - Web Socket
 
 ## 프로젝트
 
@@ -101,10 +103,24 @@
 * [피플라이프] 보증보험 자료 다운로드 자동화
   - 보증보험 엑셀 자료 다운로드 자동화 스크래퍼 (Selenium 70% 기여)
 
+* [GAI] 김총무
+  - [서비스 홈페이지](http://dev.fcworld.kr:31300) (Front-End 100% 전담)
+  
+## 솔루션 개발
+* [화상회의 Jitsi] Jitsi Meet
+  - 오픈소스 Jitsi 를 이용한 화상회의 'Meet' Web 개발
+
+* [화상회의 BBB] Greenlight
+  - 오픈소스 BigBlueButton 를 이용한 화상회의 'Greenlight' Web 개발
+
+
 ## 포트폴리오
 
 * [[아이폰11](https://louis-apple.netlify.com/)] 카피 퍼블리싱
   - 애플 아이폰11 페이지
+
+* [[충주 사과](https://test-chungju-apple.netlify.app/preview)] PWA
+  - 사과 농장의 판매관리, 고객관리 관리페이지
 
 ---
 
@@ -125,6 +141,7 @@
 * 컨퍼런스 참가
   - Vuetiful Korea 6th (2018-12-11)
   - JAVASCRIPT IS EVERYWHERE (2019-06-22)
+  - JAVASCRIPT IS EVERYWHERE (2020-05-30)
   
 * 워크샵 참가
   - Hands on! PWA + Azure workshop (2019-12-21)
