@@ -1,7 +1,7 @@
 # Wrapping the Open source WYSIWYG.
 
 > &nbsp;
-> <img src="./images/base64.png">
+> <img src="./images/base64.PNG">
 >
 > *"에디터에 사진을 추가했더니 게시글 데이터가 미친듯이 올라갔어요 !"*
 
