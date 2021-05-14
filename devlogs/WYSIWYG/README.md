@@ -1,4 +1,4 @@
-# Wrapping the Open source WYSIWYG.
+# Uploaing Images on the open source WYSIWYG.
 ## "오픈소스 위지위그에 이미지 올리기" 개발일지.
 
 > &nbsp;
@@ -7,7 +7,8 @@
 > *"에디터에 사진을 추가했더니 게시글 데이터가 미친듯이 올라갔어요 !"*
 
 ## 1. Situation
-[summernote](https://summernote.org/) 를 비롯한 대부분의 오픈소스 위지위그 에디터에 이미지를 첨부하면 **base64 인코딩** 되면서 첨부된다.
+[summernote](https://summernote.org/) 를 비롯한 대부분의 오픈소스 위지위그 에디터에 이미지를 첨부하면 **base64로 인코딩** 되면서 첨부된다.<br>
+단순한 이미지 1개를 첨부한게 위 상황이다.
 
 ## 2. Problem
 저렇게 엄청난 문자열 데이터를 **데이터베이스에 저장하는 것 자체도 문제**인데, http 통신을 할 때 패킷이 감당할 수 없는 데이터를 보내기 때문에 **통신 자체가 안되는 경우**까지도 생긴다.
@@ -34,3 +35,33 @@
 > <img src="./images/img_tag.png">
 >
 > *"이미지 태그 " &lt;img&gt; " 하나로 불러오니깐 깔끔하네 !"*
+
+# HOW TO
+이번 일지에선 두 가지 에디터에서 내가 개발한 방식을 소개한다.
+
+## 1. Summernote
+
+[썸머노트 공식 홈페이지](https://summernote.org/)에서 이미지 업로드를 해보자.<br>
+base64로 인코딩해서 올라가는걸 바로 확인할 수 있다.<br><br>
+
+썸머노트는 [onImageUpload 콜백 메소드](https://summernote.org/deep-dive/#onimageupload)로 이미지 업로드를 공식 지원해준다.
+
+```js
+// Override image upload handler(default: base64 dataURL on IMG tag). You can upload image to server or AWS
+
+// onImageUpload callback
+$('#summernote').summernote({
+  callbacks: {
+    onImageUpload: function(files) {
+      // upload image to server and create imgNode...
+      $summernote.summernote('insertNode', imgNode);
+    }
+  }
+});
+
+// summernote.image.upload
+$('#summernote').on('summernote.image.upload', function(we, files) {
+  // upload image to server and create imgNode...
+  $summernote.summernote('insertNode', imgNode);
+});
+```
